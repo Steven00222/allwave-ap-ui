@@ -9,14 +9,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^16.1.2",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "autoprefixer": "^latest",
-    "postcss": "^latest",
-    "tailwindcss": "^latest",
-    "typescript": "^latest"
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
   }
 }
