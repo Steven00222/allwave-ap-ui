@@ -1,7 +1,22 @@
-"devDependencies": {
-  "autoprefixer": "^latest",
-  "postcss": "^latest",
-  "tailwindcss": "^latest",
-  "typescript": "^latest"
+{
+  "name": "allwave-ap-ui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.1.2",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^latest",
+    "postcss": "^latest",
+    "tailwindcss": "^latest",
+    "typescript": "^latest"
+  }
 }
-
