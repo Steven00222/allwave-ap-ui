@@ -1,9 +1,8 @@
-import { NextConfig } from "next";
+import { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  experimental: {
-    appDir: true, // ensures app/ folder is recognized
-  },
+  // Any other valid Next.js options go here
+  reactStrictMode: true, // optional but recommended
 };
 
 export default nextConfig;
